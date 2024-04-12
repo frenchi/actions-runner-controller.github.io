@@ -17,7 +17,7 @@ With ARC you can :
 
 ## Overview
 
-For an overview of ARC, please refer to "[ARC Overview](https://github.com/actions/actions-runner-controller/blob/master/docs/Actions-Runner-Controller-Overview.md)."
+For an overview of ARC, please refer to "[ARC Overview](https://github.com/actions/actions-runner-controller/blob/master/docs/about-arc.md)."
 
 
 
